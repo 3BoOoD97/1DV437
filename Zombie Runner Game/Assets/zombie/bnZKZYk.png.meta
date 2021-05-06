@@ -1,0 +1,1526 @@
+fileFormatVersion: 2
+guid: 712b1a0b27a97d046ab724c6d146aaa2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bnZKZYk_0
+    21300002: bnZKZYk_1
+    21300004: bnZKZYk_2
+    21300006: bnZKZYk_3
+    21300008: bnZKZYk_4
+    21300010: bnZKZYk_5
+    21300012: bnZKZYk_6
+    21300014: bnZKZYk_7
+    21300016: bnZKZYk_8
+    21300018: bnZKZYk_9
+    21300020: bnZKZYk_10
+    21300022: bnZKZYk_11
+    21300024: bnZKZYk_12
+    21300026: bnZKZYk_13
+    21300028: bnZKZYk_14
+    21300030: bnZKZYk_15
+    21300032: bnZKZYk_16
+    21300034: bnZKZYk_17
+    21300036: bnZKZYk_18
+    21300038: bnZKZYk_19
+    21300040: bnZKZYk_20
+    21300042: bnZKZYk_21
+    21300044: bnZKZYk_22
+    21300046: bnZKZYk_23
+    21300048: bnZKZYk_24
+    21300050: bnZKZYk_25
+    21300052: bnZKZYk_26
+    21300054: bnZKZYk_27
+    21300056: bnZKZYk_28
+    21300058: bnZKZYk_29
+    21300060: bnZKZYk_30
+    21300062: bnZKZYk_31
+    21300064: bnZKZYk_32
+    21300066: bnZKZYk_33
+    21300068: bnZKZYk_34
+    21300070: bnZKZYk_35
+    21300072: bnZKZYk_36
+    21300074: bnZKZYk_37
+    21300076: bnZKZYk_38
+    21300078: bnZKZYk_39
+    21300080: bnZKZYk_40
+    21300082: bnZKZYk_41
+    21300084: bnZKZYk_42
+    21300086: bnZKZYk_43
+    21300088: bnZKZYk_44
+    21300090: bnZKZYk_45
+    21300092: bnZKZYk_46
+    21300094: bnZKZYk_47
+    21300096: bnZKZYk_48
+    21300098: bnZKZYk_49
+    21300100: bnZKZYk_50
+    21300102: bnZKZYk_51
+    21300104: bnZKZYk_52
+    21300106: bnZKZYk_53
+    21300108: bnZKZYk_54
+    21300110: bnZKZYk_55
+    21300112: bnZKZYk_56
+    21300114: bnZKZYk_57
+    21300116: bnZKZYk_58
+    21300118: bnZKZYk_59
+    21300120: bnZKZYk_60
+    21300122: bnZKZYk_61
+    21300124: bnZKZYk_62
+    21300126: bnZKZYk_63
+    21300128: bnZKZYk_64
+    21300130: bnZKZYk_65
+    21300132: bnZKZYk_66
+    21300134: bnZKZYk_67
+    21300136: bnZKZYk_68
+    21300138: bnZKZYk_69
+    21300140: bnZKZYk_70
+    21300142: bnZKZYk_71
+    21300144: bnZKZYk_72
+    21300146: bnZKZYk_73
+    21300148: bnZKZYk_74
+    21300150: bnZKZYk_75
+    21300152: bnZKZYk_76
+    21300154: bnZKZYk_77
+    21300156: bnZKZYk_78
+    21300158: bnZKZYk_79
+    21300160: bnZKZYk_80
+    21300162: bnZKZYk_81
+    21300164: bnZKZYk_82
+    21300166: bnZKZYk_83
+    21300168: bnZKZYk_84
+    21300170: bnZKZYk_85
+    21300172: bnZKZYk_86
+    21300174: bnZKZYk_87
+    21300176: bnZKZYk_88
+    21300178: bnZKZYk_89
+    21300180: bnZKZYk_90
+    21300182: bnZKZYk_91
+    21300184: bnZKZYk_92
+    21300186: bnZKZYk_93
+    21300188: bnZKZYk_94
+    21300190: bnZKZYk_95
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bnZKZYk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 336
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 337
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 338
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 336
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 337
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 338
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 336
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_7
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 337
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 338
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 336
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 337
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_11
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 338
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 289
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 289
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 289
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 289
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 289
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 289
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 288
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_22
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 289
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 289
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 241
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 241
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 241
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_29
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 241
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_30
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_31
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 241
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_32
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 241
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_34
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 241
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_35
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 241
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 193
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 194
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 193
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 194
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 193
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_44
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 192
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_46
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 193
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 194
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 145
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 144
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_52
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_53
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 144
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 145
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_56
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 144
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_58
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 145
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 146
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 97
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_62
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_66
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_67
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 97
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_68
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 97
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 96
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 97
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 97
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 49
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_74
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_77
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 49
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 48
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_79
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 49
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_80
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 49
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_81
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 48
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 49
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 49
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_86
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_87
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_88
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 2
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_90
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_91
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_93
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_94
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bnZKZYk_95
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
